@@ -6,8 +6,8 @@ The Redmi Note 12 5G (codenamed "sunstone") is a High-range smartphone from Xiao
 
 | Feature                 | Specification                                                                  |
 | :---------------------- | :------------------------------------------------------------------------------|
-| Chipset                 | Qualcomm SM4375 Snapdragon Gen 1 (6 nm)                                       |
-| CPU                     | Octa-core (2x2.0 GHz Kryo 660 Gold & 6x1.8 GHz Kryo 660 Silver)                |
+| Chipset                 | Qualcomm SM4375 Snapdragon 4 Gen 1 (6 nm)                                       |
+| CPU                     | Octa-core (2x2.0 GHz Cortex-A78 & 6x1.8 GHz Cortex-A55)                |
 | GPU                     | Adreno 619                                                                     |
 | Memory                  | 8 GB                                                                           |
 | Shipped Android Version | 12.0 (MIUI 14)                                                                |
@@ -25,4 +25,4 @@ The Redmi Note 12 5G (codenamed "sunstone") is a High-range smartphone from Xiao
 
 ## Device picture
 
-![ Redmi Note 12 5G ](https://fdn2.gsmarena.com/vv/pics/xiaomi/redmi-note-12-5g-internetional-0.jpg)
+![ Redmi Note 12 5G ](https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note-12-5g-1.jpg)
