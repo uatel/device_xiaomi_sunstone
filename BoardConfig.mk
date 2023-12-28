@@ -50,9 +50,9 @@ TARGET_NO_BOOTLOADER := true
 TARGET_USES_UEFI := true
 
 # Platform
-TARGET_BOARD_PLATFORM := xiaomi_sm6375
+TARGET_BOARD_PLATFORM := xiaomi_sm4375
 TARGET_BOARD_PLATFORM_GPU := qcom-adreno619
-QCOM_BOARD_PLATFORMS += xiaomi_sm6375
+QCOM_BOARD_PLATFORMS += xiaomi_sm4375
 
 # Kernel
 VENDOR_CMDLINE := "androidboot.hardware=qcom \
